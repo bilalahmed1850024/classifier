@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "844154849783",
+    "firebase_url": "https://classifier-62c20.firebaseio.com",
+    "project_id": "classifier-62c20",
+    "storage_bucket": "classifier-62c20.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:844154849783:android:b020ec462eddd96c80c6f2",
+        "android_client_info": {
+          "package_name": "com.classifer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "844154849783-jhbv029g49r4ehn104h8tj9nfmjnoq16.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtRhSmkUARRsUizREXmQDbQEeYGyOj6IY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "844154849783-jhbv029g49r4ehn104h8tj9nfmjnoq16.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
